@@ -15,11 +15,10 @@
     "npm packages",
     "boilerplate"
   ],
-  "author": "Dale Nguyen",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+    "url": "git+https://github.com/farhanhalai30/typescript-package-starter.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.2",
@@ -36,6 +35,6 @@
     "node": ">=8"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@dalenguyen"
+    "registry": "https://npm.pkg.github.com/@farhanhalai30"
   }
 }
